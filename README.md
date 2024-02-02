@@ -2,32 +2,26 @@
 <div>
         <a href="https://github.com/murecode"></a>
         <img height="180px" width="400px"
-            src="https://github-readme-stats.vercel.app/api?username=jonnatanfarias&amp;show_icons=true&amp;theme=dracula&amp;include_all_commits=true&amp;count_private=true" />
+            src="https://github-readme-stats.vercel.app/api?username=murecode&amp;show_icons=true&amp;theme=dracula&amp;include_all_commits=true&amp;count_private=true" />
         <img height="180px" width="400px"
-            src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonnatanfarias&amp;layout=compact&amp;langs_count=7&amp;theme=dracula" />
-    </div>
+            src="https://github-readme-stats.vercel.app/api/top-langs/?username=murecode&amp;layout=compact&amp;langs_count=7&amp;theme=dracula" />
+</div>
 
 <h2>Herramientas y Tecnologías</h2>
 <div>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="50px"
             widght="50px" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain.svg" height="50px"
-            widght="50px" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height="50px"
-            widght="50px" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="50px"
-            widght="50px" />
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50px"
+            widght="50px" /> 
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" height="50px"
             widght="50px" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" height="50px"
-            widght="50px" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50px"
-            widght="50px" />     
-         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" height="50px"
+            widght="50px" />    
+         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwind/tailwind-original-wordmark.svg" height="50px"
             widght="50px"/>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="50px"
             widght="50px" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="50px"
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" height="50px"
             widght="50px" />
     </div>
 
