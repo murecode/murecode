@@ -15,7 +15,7 @@
             widght="50px" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50px"
             widght="50px" /> 
-         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/node/node-original.svg" height="50px"
+         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50px"
             widght="50px" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" height="50px"
             widght="50px" />
