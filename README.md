@@ -1,4 +1,4 @@
-<h1>Bem vindo ao meu perfil GitHub 👋</h1>
+<h1>Bienvenido</h1>
 <div>
         <a href="https://github.com/murecode"></a>
         <img height="180px" width="400px"
@@ -7,7 +7,7 @@
             src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonnatanfarias&amp;layout=compact&amp;langs_count=7&amp;theme=dracula" />
     </div>
 
-<h2>Ferramentas e Tecnologias</h2>
+<h2>Herramientas y Tecnologías</h2>
 <div>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="50px"
             widght="50px" />
