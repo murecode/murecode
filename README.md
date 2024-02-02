@@ -10,31 +10,31 @@
 <h2>Technologies</h2>
 <div>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="50px"
-            widght="50px" />
+            widght="50px"   />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50px"
-            widght="50px" /> 
+            widght="50px"   /> 
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" height="50px"
-            widght="50px" />
+            widght="50px"   />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" height="50px"
-            widght="50px" />    
+            widght="50px"   />    
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" height="50px"
-            widght="50px" />
+            widght="50px"   />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="50px"
-            widght="50px" />
+            widght="50px"   />
 </div>
 
 <h2>Tools</h2>
 <div>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" height="50px"
-            widght="50px" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original-wordmark.svg" height="50px"
-            widght="50px" />
+            widght="50px"   />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original-wordmark.svg" height="50px"
+            widght="50px"   />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="50px"
-            widght="50px" />
+            widght="50px"   />
          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50px"
-            widght="50px" />  
+            widght="50px"   />  
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50px"
-            widght="50px" />
+            widght="50px"   />
 </div>
 
 <div>
