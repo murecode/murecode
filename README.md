@@ -2,9 +2,9 @@
 <div>
         <a href="https://github.com/murecode"></a>
         <img height="180px" width="400px"
-            src="https://github-readme-stats.vercel.app/api?username=murecode&amp;show_icons=true&amp;theme=synthwave;include_all_commits=true&amp;count_private=true" />
+            src="https://github-readme-stats.vercel.app/api?username=murecode&amp;show_icons=true&amp;theme=dark;include_all_commits=true&amp;count_private=true" />
         <img height="180px" width="400px"
-            src="https://github-readme-stats.vercel.app/api/top-langs/?username=murecode&amp;layout=compact&amp;langs_count=7&amp;theme=synthwave" />
+            src="https://github-readme-stats.vercel.app/api/top-langs/?username=murecode&amp;layout=compact&amp;langs_count=7&amp;theme=dark" />
 </div>
 
 <h2>Herramientas y Tecnologías</h2>
