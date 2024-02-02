@@ -2,9 +2,9 @@
 <div>
         <a href="https://github.com/murecode"></a>
         <img height="180px" width="400px"
-            src="https://github-readme-stats.vercel.app/api?username=murecode&amp;show_icons=true&amp;theme=transparent&amp;include_all_commits=true&amp;count_private=true" />
+            src="https://github-readme-stats.vercel.app/api?username=murecode&amp;show_icons=true&amp;theme=dark&amp;include_all_commits=true&amp;count_private=true" />
         <img height="180px" width="400px"
-            src="https://github-readme-stats.vercel.app/api/top-langs/?username=murecode&amp;layout=compact&amp;langs_count=7&amp;theme=transparent" />
+            src="https://github-readme-stats.vercel.app/api/top-langs/?username=murecode&amp;layout=compact&amp;langs_count=7&amp;theme=dark"/>
 </div>
 
 <h2>Herramientas y Tecnologías</h2>
@@ -36,14 +36,3 @@
                 target="_blank"></a>
 </div>
 
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
-</picture>
