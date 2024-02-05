@@ -1,9 +1,4 @@
 <h1>Welcome to my code portfolio</h1>
-<div>
-        <a href="https://github.com/murecode"></a>
-        <img height="180px" width="400px"
-            src="https://github-readme-stats.vercel.app/api/top-langs/?username=murecode&amp;layout=compact&amp;langs_count=7&amp;theme=dark"/>
-</div>
 
 <h2>Technologies</h2>
 <div>
@@ -33,6 +28,12 @@
             widght="50px"   />  
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50px"
             widght="50px"   />
+</div>
+
+<div>
+        <a href="https://github.com/murecode"></a>
+        <img height="180px" width="400px"
+            src="https://github-readme-stats.vercel.app/api/top-langs/?username=murecode&amp;layout=compact&amp;langs_count=7&amp;theme=dark"/>
 </div>
 
 <div>
