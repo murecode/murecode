@@ -2,8 +2,6 @@
 <div>
         <a href="https://github.com/murecode"></a>
         <img height="180px" width="400px"
-            src="https://github-readme-stats.vercel.app/api?username=murecode&amp;show_icons=true&amp;theme=dark&amp;include_all_commits=true&amp;count_private=true" />
-        <img height="180px" width="400px"
             src="https://github-readme-stats.vercel.app/api/top-langs/?username=murecode&amp;layout=compact&amp;langs_count=7&amp;theme=dark"/>
 </div>
 
