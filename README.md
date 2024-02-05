@@ -6,6 +6,8 @@
             src="https://github-readme-stats.vercel.app/api/top-langs/?username=murecode&amp;layout=compact&amp;langs_count=7&amp;theme=dark"/>
 </div>
 
+</br>
+
 <h2>Technologies and Tools</h2>
 <div>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="50px"
