@@ -32,6 +32,8 @@
             widght="50px"   />  
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50px"
             widght="50px"   />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="50px"
+            widght="50px"   />
 </div>
 
 <div>
