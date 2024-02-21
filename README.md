@@ -11,7 +11,7 @@
 <h2>Technologies and Tools</h2>
 <div>
 
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
   </a>
